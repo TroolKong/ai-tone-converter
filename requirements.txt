@@ -1,2 +1,5 @@
 streamlit
 google-genai
+chromadb
+pypdf
+pysqlite3-binary; platform_system == "Linux"
